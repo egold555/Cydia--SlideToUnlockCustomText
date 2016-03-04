@@ -1,0 +1,11 @@
+Package: org.golde.cydia.STUWelcomeUser 
+Name: Slide to unlock: Welcome User
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: Changed the default "Slide To Unlock" text to say "Welcome User"
+Homepage: http://eric.golde.org/cydia 
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Themes
+Conflicts: 
+Depends: winterboard
